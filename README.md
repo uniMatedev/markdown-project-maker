@@ -38,6 +38,7 @@ minimal-viable-diet-guide
     └── introduction
         ├── 01-overview.md
         └── 02-prerequisites.md
+```
 
 ## 🚀 Getting Started:
 
