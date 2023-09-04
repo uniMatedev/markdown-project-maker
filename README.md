@@ -44,7 +44,10 @@ Copy code
 
 To create the above directory structure and associated files in your system, use the following terminal command:
 
+```bash
 mkdir -p minimal-viable-diet-guide/docs/{diet-principles,meal-planning,appendices,testimonials,introduction} && touch minimal-viable-diet-guide/{CONTRIBUTING.md,LICENSE,README.md} minimal-viable-diet-guide/docs/diet-principles/{01-basic-nutrition-requirements.md,02-eating-windows.md} minimal-viable-diet-guide/docs/meal-planning/{01-simple-ingredients-selection.md,02-convenience-optimization.md,03-meal-prepping-techniques.md} minimal-viable-diet-guide/docs/appendices/{01-resources.md,02-further-reading.md,03-glossary.md} minimal-viable-diet-guide/docs/testimonials/01-real-life-adoption-cases.md minimal-viable-diet-guide/docs/introduction/{01-overview.md,02-prerequisites.md}
+```
+
 
 vbnet
 Copy code
