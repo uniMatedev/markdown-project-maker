@@ -4,8 +4,6 @@ This template provides a structure for documenting projects based on the princip
 
 ## 🌟 Project Overview:
 
-**Subject:** $projectSubject
-
 **Description:** $projectDescription
 
 **Template Reference:** Adhere to the provided project directory for formatting and styling.
