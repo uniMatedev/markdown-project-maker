@@ -15,30 +15,29 @@ This template provides a structure for documenting projects based on the princip
 This template follows a predefined directory structure which you can generate using the provided terminal command. Here's a glance at the structure:
 
 minimal-viable-diet-guide
+```plaintext
+minimal-viable-diet-guide 
 .
 ├── CONTRIBUTING.md
 ├── LICENSE
 ├── README.md
 └── docs
-├── diet-principles
-│ ├── 01-basic-nutrition-requirements.md
-│ └── 02-eating-windows.md
-├── meal-planning
-│ ├── 01-simple-ingredients-selection.md
-│ ├── 02-convenience-optimization.md
-│ └── 03-meal-prepping-techniques.md
-├── appendices
-│ ├── 01-resources.md
-│ ├── 02-further-reading.md
-│ └── 03-glossary.md
-├── testimonials
-│ └── 01-real-life-adoption-cases.md
-└── introduction
-├── 01-overview.md
-└── 02-prerequisites.md
-
-perl
-Copy code
+    ├── diet-principles
+    │   ├── 01-basic-nutrition-requirements.md
+    │   └── 02-eating-windows.md
+    ├── meal-planning
+    │   ├── 01-simple-ingredients-selection.md
+    │   ├── 02-convenience-optimization.md
+    │   └── 03-meal-prepping-techniques.md
+    ├── appendices
+    │   ├── 01-resources.md
+    │   ├── 02-further-reading.md
+    │   └── 03-glossary.md
+    ├── testimonials
+    │   └── 01-real-life-adoption-cases.md
+    └── introduction
+        ├── 01-overview.md
+        └── 02-prerequisites.md
 
 ## 🚀 Getting Started:
 
